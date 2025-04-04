@@ -1,0 +1,3 @@
+LIBRARY shelltest
+EXPORTS
+    StartShell=StartShell@0 
